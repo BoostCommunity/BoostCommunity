@@ -15,3 +15,4 @@ This is the Boost Community repository.
 
 * Aristeo Ibarra Melgar
 * Cristian M. Moreno
+* Jesus A. Robles cedillo
